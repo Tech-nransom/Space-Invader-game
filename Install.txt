@@ -1,0 +1,5 @@
+Install for Windows:
+pip install pygame
+
+Install For Linux/Mac
+pip3 install pygame
